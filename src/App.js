@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>Website under maintenance</h1>
-      <p>Building awesome things for you - Magnet Tech Pvt Ltd</p>
+      <p>Building awesome things for you - Diploma Dev Hub</p>
     </div>
   );
 }
